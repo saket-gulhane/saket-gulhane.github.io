@@ -1,0 +1,76 @@
+{
+  "user": { "public_repos": 28, "followers": 4 },
+  "repos": [
+    {
+      "name": "The-wild-oasis-manager",
+      "full_name": "saket-gulhane/The-wild-oasis-manager",
+      "html_url": "https://github.com/saket-gulhane/The-wild-oasis-manager",
+      "description": "Hotel management internal application",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "fork": false,
+      "pushed_at": "2023-09-01T13:08:07Z"
+    },
+    {
+      "name": "Ball_EatUp",
+      "full_name": "saket-gulhane/Ball_EatUp",
+      "html_url": "https://github.com/saket-gulhane/Ball_EatUp",
+      "description": "A survival game built with the p5.js library",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "fork": false,
+      "pushed_at": "2024-01-27T19:24:17Z"
+    },
+    {
+      "name": "Iterative_DFS_simulation_pygame",
+      "full_name": "saket-gulhane/Iterative_DFS_simulation_pygame",
+      "html_url": "https://github.com/saket-gulhane/Iterative_DFS_simulation_pygame",
+      "description": "A pygame application that simulates iterative depth-first search",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "fork": false,
+      "pushed_at": "2020-03-08T11:58:30Z"
+    },
+    {
+      "name": "CCTVinator",
+      "full_name": "saket-gulhane/CCTVinator",
+      "html_url": "https://github.com/saket-gulhane/CCTVinator",
+      "description": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "fork": false,
+      "pushed_at": "2023-01-26T13:03:24Z"
+    },
+    {
+      "name": "SpielScribe-DigitalVoicePrescription",
+      "full_name": "saket-gulhane/SpielScribe-DigitalVoicePrescription",
+      "html_url": "https://github.com/saket-gulhane/SpielScribe-DigitalVoicePrescription",
+      "description": null,
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "fork": false,
+      "pushed_at": "2024-01-28T05:03:33Z"
+    }
+  ],
+  "extra": [
+    {
+      "name": "Freehand.io",
+      "full_name": "Devs-Not-Wizards/Freehand.io",
+      "html_url": "https://github.com/Devs-Not-Wizards/Freehand.io",
+      "description": "Frontend code generation from simple hand drawings",
+      "language": "JavaScript",
+      "stargazers_count": 7,
+      "forks_count": 4,
+      "fork": false,
+      "pushed_at": "2024-01-27T20:08:16Z"
+    }
+  ],
+  "contributions": [],
+  "contributionsTotal": null,
+  "source": "snapshot"
+}
