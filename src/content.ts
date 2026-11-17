@@ -12,8 +12,11 @@ export const profile = {
     github: 'https://github.com/saket-gulhane',
     linkedin: 'https://www.linkedin.com/in/saket-gulhane',
   },
-  // Put resume.pdf in /public and set this to '/resume.pdf' to show the resume buttons.
-  resumeUrl: null as string | null,
+  // The resume lives at public/resume.pdf. Replace that file to update it.
+  // Set resumeUrl to null to hide the resume buttons.
+  resumeUrl: '/resume.pdf' as string | null,
+  // Name the browser gives the file when it is downloaded.
+  resumeFileName: 'SaketGulhane_resume.pdf',
 }
 
 /**

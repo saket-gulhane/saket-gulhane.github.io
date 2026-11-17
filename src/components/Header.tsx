@@ -13,7 +13,11 @@ export function Header() {
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
         {profile.resumeUrl && (
-          <a className="nav-accent" href={profile.resumeUrl}>
+          <a
+            className="nav-accent"
+            href={profile.resumeUrl}
+            download={profile.resumeFileName}
+          >
             Resume (PDF)
           </a>
         )}

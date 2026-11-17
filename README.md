@@ -41,7 +41,7 @@ A history item looks like this:
 }
 ```
 
-To add the resume, put `resume.pdf` in `public/` and set `profile.resumeUrl` to `'/resume.pdf'`.
+The resume is `public/resume.pdf`. To update it, replace that file and push. The download buttons save it as `profile.resumeFileName`; set `profile.resumeUrl` to `null` to hide them.
 
 ## GitHub data
 

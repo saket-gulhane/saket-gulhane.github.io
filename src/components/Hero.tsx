@@ -8,7 +8,11 @@ export function Hero() {
       <p className="hero-summary">{profile.summary}</p>
       <div className="button-row">
         {profile.resumeUrl && (
-          <a className="button button--primary" href={profile.resumeUrl}>
+          <a
+            className="button button--primary"
+            href={profile.resumeUrl}
+            download={profile.resumeFileName}
+          >
             Download resume
           </a>
         )}

@@ -13,7 +13,11 @@ export function Contact() {
           GitHub
         </a>
         {profile.resumeUrl && (
-          <a className="button" href={profile.resumeUrl}>
+          <a
+            className="button"
+            href={profile.resumeUrl}
+            download={profile.resumeFileName}
+          >
             Download resume
           </a>
         )}
